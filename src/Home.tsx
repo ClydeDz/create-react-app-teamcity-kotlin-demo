@@ -8,7 +8,7 @@ function Home() {
           <h1>
             Home
           </h1>
-          <p>Kotlin update 1</p>
+          <p>Kotlin update 2</p>
         </header>
       </div>
     );
